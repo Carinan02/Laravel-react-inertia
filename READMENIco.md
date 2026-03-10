@@ -9,3 +9,9 @@ run command to start vite react
 # npm run dev
 
 make both ports public
+
+
+
+LARAVEL NEW APP INSTALLATION GUIDE
+Add Laravel installer to PATH (Codespaces)
+export PATH="$HOME/.config/composer/vendor/bin:$PATH"
